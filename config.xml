@@ -15,4 +15,7 @@
     <author href="http://www.filomenoadvogados.com.br" email="qualquer@filomenoadvogados.com.br">
         Rodrigo Filomeno
     </author>
+    <preference name="orientation" value="portrait" />
+    <preference name="permissions" value="none" />
+    <platform name="android" />
 </widget>

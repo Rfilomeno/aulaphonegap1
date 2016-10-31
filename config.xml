@@ -18,4 +18,7 @@
     <preference name="orientation" value="portrait" />
     <preference name="permissions" value="none" />
     <platform name="android" />
+    <icon src="img/icon.png" />
+    <plugin name="cordova-plugin-splashscreen" />
+<splash src="img/splash.png" />
 </widget>
